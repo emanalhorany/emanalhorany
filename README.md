@@ -38,35 +38,12 @@ I care about models that are **explainable and deployable**, not just accurate o
 
 ## 📂 Featured Projects
 
-### 🔋 [Energy Consumption Forecasting](LINK_HERE)
+### 🔋 [Energy Consumption Forecasting](https://github.com/emanalhorany/energy-consumption-forecasting)
 Predicting hourly/daily electricity demand using time-series models.
 - **Data:** PJM Hourly Energy Consumption (real utility data, 10+ years)
 - **Approach:** Baseline (ARIMA/Prophet) vs. XGBoost vs. LSTM comparison
-- **Result:** *[ضيفي هون: مثلاً "خفّضت MAE بنسبة X% عن الـ baseline"]*
+- **Result:** XGBoost reduced MAE by 8.1% over the baseline
 - **Stack:** `Python` `Prophet` `XGBoost` `Pandas`
-
-### ⚡ [Electrical Signal Anomaly / Fault Detection](LINK_HERE)
-Detecting faults in electrical signals using signal processing + ML.
-- **Data:** Simulated/real electrical line signals
-- **Approach:** FFT feature extraction → classification models
-- **Result:** *[ضيفي هون النتيجة: accuracy / F1-score]*
-- **Stack:** `Python` `Scipy` `Scikit-learn`
-
-### ☀️ [Solar Power Generation Prediction](LINK_HERE)
-Forecasting solar plant output from weather and sensor data.
-- **Data:** Solar Power Generation Dataset (Kaggle)
-- **Result:** *[ضيفي هون النتيجة]*
-- **Stack:** `Python` `Scikit-learn` `Seaborn`
-
-### 🌐 [End-to-End Deployed App: Energy Usage Predictor](LINK_HERE)
-Full pipeline from raw data to a live, usable web app.
-- **Live demo:** [رابط الـ Streamlit/HF Space]
-- **Stack:** `FastAPI` `Streamlit` `Docker` — deployed on Hugging Face Spaces
-
-### 📊 [General Data Analysis Project](LINK_HERE)
-*[موضوع اجتماعي/اقتصادي عام لتنويع البروتفوليو]*
-- Interactive dashboard with clear business/analytical insights
-- **Stack:** `Pandas` `Power BI` / `Plotly Dash`
 
 ---
 
