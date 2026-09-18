@@ -1,50 +1,86 @@
-# 👩‍💻 Eman Alhourani
+<h1 align="center">👩‍💻 Eman Alhourani</h1>
+<h3 align="center">Electrical Engineer → Machine Learning & Data Analysis</h3>
 
-Electrical Engineer | Machine Learning Enthusiast | Data Analyst
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I am an Electrical Engineer specializing in communications, with a growing passion for Machine Learning and Data Analysis.
-I enjoy solving real-world problems using data-driven approaches, especially in energy and smart systems.
+I'm an Electrical Engineer (Communications) turning that background into a data-driven edge:
+I build Machine Learning models for **energy systems, smart grids, and signal-based problems** —
+a niche most ML portfolios don't touch, because most ML people aren't engineers first.
+
+I care about models that are **explainable and deployable**, not just accurate on a notebook cell.
 
 ---
 
 ## 🧠 Skills
 
-* Programming: Python
-* Data Analysis: Pandas, NumPy
-* Machine Learning: Scikit-learn
-* Data Visualization: Matplotlib, Seaborn
-* Tools: Git, GitHub
+| Category | Tools |
+|---|---|
+| **Languages** | Python, SQL |
+| **Data Analysis** | Pandas, NumPy, EDA, Data Cleaning |
+| **Machine Learning** | Scikit-learn, XGBoost, Time Series (ARIMA/Prophet) |
+| **Signal Processing** | FFT, Wavelet Transform *(engineering background advantage)* |
+| **Visualization** | Matplotlib, Seaborn, Plotly, Power BI |
+| **Deployment** | Streamlit, FastAPI, Hugging Face Spaces |
+| **Tools** | Git, GitHub, Jupyter |
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-Here are some of the projects I’ve worked on:
+### 🔋 [Energy Consumption Forecasting](LINK_HERE)
+Predicting hourly/daily electricity demand using time-series models.
+- **Data:** PJM Hourly Energy Consumption (real utility data, 10+ years)
+- **Approach:** Baseline (ARIMA/Prophet) vs. XGBoost vs. LSTM comparison
+- **Result:** *[ضيفي هون: مثلاً "خفّضت MAE بنسبة X% عن الـ baseline"]*
+- **Stack:** `Python` `Prophet` `XGBoost` `Pandas`
 
-🔹 **Energy Consumption Prediction**
-Predicting electricity usage using machine learning techniques.
+### ⚡ [Electrical Signal Anomaly / Fault Detection](LINK_HERE)
+Detecting faults in electrical signals using signal processing + ML.
+- **Data:** Simulated/real electrical line signals
+- **Approach:** FFT feature extraction → classification models
+- **Result:** *[ضيفي هون النتيجة: accuracy / F1-score]*
+- **Stack:** `Python` `Scipy` `Scikit-learn`
 
-🔹 **House Price Prediction**
-Building regression models to estimate housing prices.
+### ☀️ [Solar Power Generation Prediction](LINK_HERE)
+Forecasting solar plant output from weather and sensor data.
+- **Data:** Solar Power Generation Dataset (Kaggle)
+- **Result:** *[ضيفي هون النتيجة]*
+- **Stack:** `Python` `Scikit-learn` `Seaborn`
 
-🔹 **Spam Detection System**
-Classifying messages as spam or not using ML algorithms.
+### 🌐 [End-to-End Deployed App: Energy Usage Predictor](LINK_HERE)
+Full pipeline from raw data to a live, usable web app.
+- **Live demo:** [رابط الـ Streamlit/HF Space]
+- **Stack:** `FastAPI` `Streamlit` `Docker` — deployed on Hugging Face Spaces
+
+### 📊 [General Data Analysis Project](LINK_HERE)
+*[موضوع اجتماعي/اقتصادي عام لتنويع البروتفوليو]*
+- Interactive dashboard with clear business/analytical insights
+- **Stack:** `Pandas` `Power BI` / `Plotly Dash`
 
 ---
 
-## 🎯 Goals
-
-I aim to build a strong career in Machine Learning and Data Science, focusing on real-world applications in energy systems and intelligent technologies.
+## 🎯 Currently Focused On
+- Deep learning for time-series forecasting
+- Deploying ML models as real, usable tools (not just notebooks)
 
 ---
 
 ## 📫 Contact Me
 
-* Email: emanalhorany8@gmail.com
-* LinkedIn: www.linkedin.com/in/eman-alhorany-93a6bb1b9
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/eman-alhorany-93a6bb1b9)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emanalhorany8@gmail.com)
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emanalhorany&style=flat&color=blue" alt="profile views"/>
+</p>
