@@ -15,9 +15,7 @@
 ## 🚀 About Me
 
 I'm an Electrical Engineer (Communications) turning that background into a data-driven edge:
-I build Machine Learning models for **energy systems, smart grids, and signal-based problems** —
-a niche most ML portfolios don't touch, because most ML people aren't engineers first.
-
+I build Machine Learning models for **energy systems, smart grids, and signal-based problems**
 I care about models that are **explainable and deployable**, not just accurate on a notebook cell.
 
 ---
